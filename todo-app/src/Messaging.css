@@ -1,0 +1,21 @@
+.comment {
+  margin: 10px 0;
+}
+
+.my-comment {
+  text-align: right;
+  background-color: #e1ffc7;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 80%;
+  margin-left: auto;
+}
+
+.other-comment {
+  text-align: left;
+  background-color: #f1f0f0;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 80%;
+  margin-right: auto;
+}

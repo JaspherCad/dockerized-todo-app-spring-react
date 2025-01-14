@@ -1,4 +1,4 @@
-##Dockerized Todo App
+## DOCKERIZED SPRING BOOT REACT JS SHARABLE TODO APP
 https://www.youtube.com/watch?v=Me2XIt-auuU
 This is a Dockerized application with a React frontend, Spring Boot backend, and MySQL database.
 https://www.youtube.com/watch?v=Me2XIt-auuU
